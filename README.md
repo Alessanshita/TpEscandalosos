@@ -1,2 +1,0 @@
-# TpEscandalosos
-TP_DesarrolloDeSistemas
